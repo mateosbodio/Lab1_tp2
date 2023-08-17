@@ -9,3 +9,11 @@ Actualizar y fusionar cambios: Cuando otro miembro del equipo haya realizado cam
 Este ejercicio les permitirá a los miembros del equipo trabajar en el mismo proyecto de NetBeans de manera colaborativa utilizando GitHub Desktop. Recuerden comunicarse y coordinar los cambios para evitar conflictos. ¡Diviértanse trabajando juntos!
 
  */
+public class tp2 {
+
+    public static void main(String[] args) {
+        System.out.println("Hola mundoo");
+        
+        
+    }
+}
