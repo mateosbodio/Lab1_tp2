@@ -14,6 +14,7 @@ public class tp2 {
     public static void main(String[] args) {
         System.out.println("Hola mundoo");
         System.out.println("Como estan?");
+        System.out.println("Bien,ustedes?");
         
     }
 }
