@@ -1,1 +1,0 @@
-Importar el proyecto en NetBeans: Cada miembro del equipo debe abrir NetBeans y seleccionar "File" (Archivo) en la barra de menú. Luego, elige "Open Project" (Abrir Proyecto) y selecciona la carpeta del repositorio clonado en tu computadora que contiene el proyecto de NetBeans.
